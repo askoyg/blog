@@ -1,0 +1,14 @@
+Tedarik zinciri yönetimi, 90'larda akademik araştırmalar ve Walmart ve Procter & Gamble gibi büyük şirketler tarafından yönlendirilen muazzam ilerleme kaydetti. Bazı şirketler hala en iyi uygulamaları hayata geçirme yolundayken, küresel tedarik zinciri halihazırda Büyük Veri tarafından sağlanan ve yapay zeka, blok zinciri ve robotik gibi gelişmiş teknolojileri kullanan veri bilimi ekipleri tarafından desteklenen başka bir büyük dönüşümden geçiyor.
+
+Genellikle "Endüstri 4.0", "Tedarik Zinciri 4.0" ve "Tedarik Zinciri Dijitalleştirme" gibi terimlerle işaretlenen ve özetlenen bu umut verici gelişmeler, yenileme ve tedarik sürelerini kısaltmayı, talep tahminini tamamen otomatikleştirmeyi, envanterleri düşürmeyi ve zamanında iyileştirmeyi vaat ediyor. üretim ve teslimat.
+
+Kısacası, bu gelişmeler, tedarik zincirini kuruluşlar için daha çevik, öngörülebilir ve maliyet açısından daha verimli hale getirerek genel olarak daha yüksek kârlılık ve rekabet gücüne yol açmayı amaçlamaktadır.
+Günümüzün yöneticileri, tedarik zincirini öncelik listelerinde daha yukarılara taşıma ihtiyacını haklı olarak anladılar. Geleneksel olarak tamamen operasyonel bir işlev olarak görülen şey, şimdi birçok endüstri ve işletme için stratejik bir rekabet avantajı olarak ortaya çıkıyor. Nesnelerin İnterneti (IoT) teknolojileri ve BT altyapısı gibi yeni yatırımlar, şirketlerin her zamankinden daha fazla veri toplamasına olanak tanıyarak, sürekli iş zorluklarının üstesinden gelmek için uygulamalar oluşturmalarına olanak tanır.
+
+Veri biliminin çözmesine yardımcı olduğu tedarik zinciri zorluklarından bazıları şunlardır:
+
+Küresel kaynak kullanımının çevresel etkisini en aza indirmek için tedarik zincirini daha çevreci hale getirmek (ör. daha kısa mesafeler veya birleştirilmiş gönderiler)
+Tedarik zincirinde görünürlüğü ve yanıt süresini artırma (ör. blok zinciri aracılığıyla)
+Demografik değişikliklere ve müşteri beklentilerine uyum sağlama (ör. aynı gün ücretsiz teslimat)
+Üreticilerin trendlere ve talebe daha hızlı tepki vermeleri için ürün yaşam döngüsü sürelerini azaltmalarına (ör.
+Ürün portföyünü yalnızca kitle pazarına değil, tüm talep eğrisine hizmet edecek şekilde artırmak (örneğin, toplu özelleştirme yoluyla)
